@@ -94,11 +94,15 @@ h1 {
 .steps-container {
 	width: 70%;
 }
-
-.steps-container ol {
-	list-style-type: upper-roman;
+.pizza-steps-container {
+	width: 80%;
+	transform: translateY(9rem);
 }
 
 .steps-container ol li {
+	margin-bottom: 0.7rem;
+}
+
+.pizza-steps-container ol li {
 	margin-bottom: 0.7rem;
 }
